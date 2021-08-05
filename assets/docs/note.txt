@@ -1,3 +1,0 @@
-1. css selector?
-2. flexbox?
-3. position?
